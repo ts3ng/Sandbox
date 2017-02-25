@@ -1,0 +1,14 @@
+{
+  "data": 
+    {
+      "attributes": {
+        "value": "1",
+        "key": "STRESS_WORKERS",
+        "image-id": "stress-mem-constant",
+        "encryptmemn-key": "",
+        "applicatmemn-id": "stressmem"
+      },
+      "id": "2",
+      "type": "environment-variable"
+    }
+}

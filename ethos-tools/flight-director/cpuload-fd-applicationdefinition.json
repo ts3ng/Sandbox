@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "stresscpu",
+    "type": "applicationDefinition",
+    "attributes": {
+      "name": "stresscpu"
+    }
+  }
+}

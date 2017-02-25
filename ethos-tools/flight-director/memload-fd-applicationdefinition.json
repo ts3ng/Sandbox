@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "stressmem",
+    "type": "applicationDefinition",
+    "attributes": {
+      "name": "stressmem"
+    }
+  }
+}

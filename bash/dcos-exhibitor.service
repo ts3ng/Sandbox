@@ -1,0 +1,17 @@
+[Unit]
+Description=Exhibitor: Zookeeper Supervisor Service
+[Service]
+User=dcos_exhibitor
+StandardOutput=journal
+StandardError=journal
+Restart=always
+StartLimitInterval=0
+RestartSec=5
+# Run in new mount namespace to create custom resolv.conf.
+MountFlags=private
+RuntimeDirectory=dcos_exhibitor
+EnvironmentFile=/opt/mesosphere/environment
+EnvironmentFile=/opt/mesosphere/etc/dns_config
+EnvironmentFile=/opt/mesosphere/etc/exhibitor
+EnvironmentFile=-/opt/mesosphere/etc/exhibitor-extras
+ExecStart=./unitstart.sh

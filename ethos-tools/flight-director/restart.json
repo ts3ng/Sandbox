@@ -1,0 +1,10 @@
+{
+  "data": {
+    "attributes": {
+      "application-id": "{{APP}}",
+      "image-id": "{{IMAGE}}",
+      "type": "RESTART"
+    },
+    "type": "deployment"
+  }
+}

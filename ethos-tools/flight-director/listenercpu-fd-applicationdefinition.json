@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "listenercpu",
+    "type": "applicationDefinition",
+    "attributes": {
+      "name": "listenercpu"
+    }
+  }
+}

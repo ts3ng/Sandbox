@@ -1,0 +1,14 @@
+{
+  "data": 
+    {
+      "attributes": {
+        "value": "1G",
+        "key": "STRESS_MEM_BYTES",
+        "image-id": "stress-mem-constant",
+        "encryption-key": "",
+        "application-id": "stressmem"
+      },
+      "id": "3",
+      "type": "environment-variable"
+    }
+}

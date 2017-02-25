@@ -1,0 +1,13 @@
+{
+  "data": {
+      "attributes": {
+        "value": "PI",
+        "key": "STRESS_TEST_TYPE",
+        "image-id": "distributed-cpu",
+        "encryption-key": "",
+        "application-id": "distributedcpu"
+      },
+      "id": "1",
+      "type": "environment-variable"
+  }
+}

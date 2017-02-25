@@ -1,0 +1,11 @@
+connect-port=2888
+observer-threshold=0
+election-port=3888
+zoo-cfg-extra=secureClientPort\=2281&tickTime\=2000&initLimit\=10&syncLimit\=5&quorumListenOnAllIPs\=true&maxClientCnxns\=0&autopurge.snapRetainCount\=5&autopurge.purgeInterval\=6
+auto-manage-instances-settling-period-ms=0
+auto-manage-instances=1
+auto-manage-instances-fixed-ensemble-size={zookeeper_cluster_size}
+""".format(
+    zookeeper_cluster_size=zookeeper_cluster_size,
+    check_ms=check_ms
+))

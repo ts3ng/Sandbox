@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "distributedcpu",
+    "type": "applicationDefinition",
+    "attributes": {
+      "name": "distributedcpu"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "data": 
+    {
+      "attributes": {
+        "value": "55",
+        "key": "STRESS_CPU_PERCENTAGE",
+        "image-id": "stress-cpu-constant",
+        "encryption-key": "",
+        "application-id": "stresscpu"
+      },
+      "id": "3",
+      "type": "environment-variable"
+    }
+}

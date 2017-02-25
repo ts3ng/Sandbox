@@ -1,0 +1,17 @@
+{
+    "data": {
+        "type": "image-definitions",
+        "attributes": {
+            "action": "",
+            "application-id": "ethosops-dev-b71965ff1a",
+            "logging": {
+                "type": "splunk",
+                "attributes": {
+                    "index": "ethos-dev-ue1",
+                    "source_type": "journald",
+                    "volume": "high"
+                }
+            }
+        }
+    }
+}

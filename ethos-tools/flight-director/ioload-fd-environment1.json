@@ -1,0 +1,14 @@
+{
+  "data": 
+    {
+      "attributes": {
+        "value": "IO",
+        "key": "STRESS_TEST_TYPE",
+        "image-id": "stress-io-constant",
+        "encryption-key": "",
+        "application-id": "stressio"
+      },
+      "id": "1",
+      "type": "environment-variable"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "type": "image-definitmemns",
+    "attributes": {
+      "application-id": "stressmem",
+      "command": "",
+      "constraints": "",
+      "container-image": "",
+      "cpus": 0.5,
+      "encryptmemn-key": "",
+      "env": "",
+      "exposed-ports": "",
+      "health-check-path": "",
+      "job-type": "LONG_RUNNING",
+      "marathon-app-name": "stress-mem-constant",
+      "memory": 2048,
+      "name": "stress-mem-constant",
+      "num-containers": 1,
+      "parameters": "",
+      "proxy-group": "",
+      "proxy-port-mapping": "",
+      "schedule": "",
+      "scm-repo": "",
+      "uris": "",
+      "volumes": ""
+    }
+  }
+}

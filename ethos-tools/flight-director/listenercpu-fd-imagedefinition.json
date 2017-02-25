@@ -1,0 +1,28 @@
+{
+  "data": {
+    "type": "image-definitions",
+    "attributes": {
+      "application-id": "listenercpu",
+      "command": "",
+      "constraints": "",
+      "container-image": "",
+      "cpus": 0.5,
+      "encryption-key": "",
+      "env": "",
+      "exposed-ports": "3000",
+      "health-check-path": "/",
+      "job-type": "LONG_RUNNING",
+      "marathon-app-name": "listener-cpu",
+      "memory": 512,
+      "name": "listener-cpu",
+      "num-containers": 1,
+      "parameters": "",
+      "proxy-group": "",
+      "proxy-port-mapping": "11000:3000",
+      "schedule": "",
+      "scm-repo": "",
+      "uris": "",
+      "volumes": ""
+    }
+  }
+}

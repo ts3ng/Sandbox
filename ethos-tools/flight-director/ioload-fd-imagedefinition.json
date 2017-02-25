@@ -1,0 +1,28 @@
+{
+  "data": {
+    "type": "image-definitions",
+    "attributes": {
+      "application-id": "stressio",
+      "command": "",
+      "constraints": "",
+      "container-image": "",
+      "cpus": 0.5,
+      "encryption-key": "",
+      "env": "",
+      "exposed-ports": "",
+      "health-check-path": "",
+      "job-type": "LONG_RUNNING",
+      "marathon-app-name": "stress-io-constant",
+      "memory": 512,
+      "name": "stress-io-constant",
+      "num-containers": 1,
+      "parameters": "",
+      "proxy-group": "",
+      "proxy-port-mapping": "",
+      "schedule": "",
+      "scm-repo": "",
+      "uris": "",
+      "volumes": ""
+    }
+  }
+}

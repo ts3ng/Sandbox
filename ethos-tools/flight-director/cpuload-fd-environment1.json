@@ -1,0 +1,14 @@
+{
+  "data": 
+    {
+      "attributes": {
+        "value": "CPU",
+        "key": "STRESS_TEST_TYPE",
+        "image-id": "stress-cpu-constant",
+        "encryption-key": "",
+        "application-id": "stresscpu"
+      },
+      "id": "1",
+      "type": "environment-variable"
+    }
+}
